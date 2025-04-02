@@ -1,13 +1,21 @@
 const SignUp = () => {
     return (
-        <div className="w-screen h-screen flex">
-            <div className="w-[55%] bg-gray-200 flex items-center justify-center">
+        <div className="w-screen h-screen flex p-0 m-0 box-border">
             
-                <h1 className="text-2xl font-bold">DLC HUB</h1>
-            </div>    
-
-
-
+            <div className="w-[55%] h-full overflow-hidden relative">
+    
+                <img 
+                    src="/img/484066318_650729234244933_6513529388520347528_n.png"  
+                    className="w-full h-auto transform scale-190 -translate-y-7 blur-lg absolute top-0 left-0" 
+            
+                />
+            
+                <img 
+                    src="/img/484066318_650729234244933_6513529388520347528_n.png"  
+                    className="w-full h-auto transform scale-160 -translate-y-7 absolute top-0 left-0" 
+                  
+                />
+            </div>
         <div className="w-[45%] bg-rose-950 rounded-l-3xl flex items-center flex-col gap-4 p-10s ">
 
                 <div className="flex flex-col items-center gap-4 m-10 w-full my-20">                
