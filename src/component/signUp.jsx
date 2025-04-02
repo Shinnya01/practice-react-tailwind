@@ -12,7 +12,7 @@ const SignUp = () => {
             
                 <img 
                     src="/img/484066318_650729234244933_6513529388520347528_n.png"  
-                    className="w-full h-auto transform scale-160 -translate-y-7 absolute top-0 left-0" 
+                    className="w-full h-auto transform scale-140 -translate-y-7 absolute top-0 left-0" 
                   
                 />
             </div>
